@@ -1,0 +1,20 @@
+{
+  "name": "use-generate-id-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "~1.12.4",
+    "sass": "~1.32.0"
+  },
+  "alias": {
+    "#root": "./src"
+  },
+  "scripts": {
+    "watch": "parcel src/index.html"
+  },
+  "dependencies": {
+    "react": "17.0.1",
+    "react-dom": "~17.0.1"
+  }
+}
